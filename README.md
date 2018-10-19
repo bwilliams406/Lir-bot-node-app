@@ -10,3 +10,4 @@ spotify-this-song <song> searches Spotify for specified song and returns informa
 
 do-what-it-says executes commands found in random.txt file
 
+![visuals](./images/liri-console.png)

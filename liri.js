@@ -36,7 +36,7 @@ function commands(liriCommand, input) {
 
         //If no command is entered, this is the default message to user
         default:
-            console.log("No valid argument has been provided, please enter one of the following commands:'spotify-this-song', 'movie-this', 'do-what-it-says' followed by parameter.".red);
+            console.log("No valid argument has been provided, please enter one of the following commands:'spotify-this-song', 'movie-this', 'concert-this', 'do-what-it-says' followed by parameter.".red);
     }
 }
 //========================================================================
