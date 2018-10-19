@@ -119,7 +119,7 @@ function getMovie(movieName) {
     });
 };
 
-//BandsInTown =============================================
+//Function for BandsInTown
 function concertThis() {
 
     //Grab user input
